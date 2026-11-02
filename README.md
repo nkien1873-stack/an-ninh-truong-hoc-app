@@ -35,7 +35,7 @@ tool/screenshots/      chụp ảnh các màn để rà soát giao diện
 ## Chạy app
 
 1. Cài Flutter 3.47 và Android Studio (Android 7.0, API 24 trở lên).
-2. `flutter pub get`
+2. Bấm đúp `chay-lan-dau.bat` (hoặc chạy `flutter pub get`) để tải thư viện. Chưa tải thì Android Studio gạch đỏ mọi `import`.
 3. Chạy từ Android Studio, hoặc `flutter run`. App mặc định gọi web API đã triển khai ở trên, không cần chạy backend trên máy.
 4. Kiểm thử: `flutter test`
 
